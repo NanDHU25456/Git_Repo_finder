@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import axios from "axios";
 import Displayrepo from './Displayrepo';
-import { keys } from "../../../keys";
+import { keys } from "../keys";
 export default class Search extends Component {
     constructor(props) {
         super(props);
